@@ -4,6 +4,7 @@
 Prerequiste
 - Java 8
 - Maven
+- Docker
 
 2:
 Set JAVA_HOME
